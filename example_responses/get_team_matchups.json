@@ -1,0 +1,1840 @@
+{
+  "fantasy_content": {
+    "@xml:lang": "en-US",
+    "@yahoo:uri": "http://fantasysports.yahooapis.com/fantasy/v2/team/nfl.l.838233.t.2/matchups;weeks=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,",
+    "@time": "161.2720489502ms",
+    "@copyright": "Data provided by Yahoo! and STATS, LLC",
+    "@refresh_rate": "60",
+    "@xmlns:yahoo": "http://www.yahooapis.com/v1/base.rng",
+    "@xmlns": "http://fantasysports.yahooapis.com/fantasy/v2/base.rng",
+    "team": {
+      "team_key": "406.l.838233.t.2",
+      "team_id": "2",
+      "name": "COVID Cucks",
+      "is_owned_by_current_login": "1",
+      "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+      "team_logos": {
+        "team_logo": {
+          "size": "large",
+          "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+        }
+      },
+      "waiver_priority": "8",
+      "number_of_moves": "14",
+      "number_of_trades": "0",
+      "roster_adds": {
+        "coverage_type": "week",
+        "coverage_value": "15",
+        "value": "0"
+      },
+      "clinched_playoffs": "1",
+      "league_scoring_type": "head",
+      "draft_position": "9",
+      "has_draft_grade": "1",
+      "draft_grade": "B+",
+      "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+      "managers": {
+        "manager": {
+          "manager_id": "2",
+          "nickname": "Walker",
+          "guid": "KT473LM2255UVCPUDYCPV7A36I",
+          "is_current_login": "1",
+          "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+          "felo_score": "642",
+          "felo_tier": "silver"
+        }
+      },
+      "matchups": {
+        "@count": "15",
+        "matchup": [
+          {
+            "week": "1",
+            "week_start": "2021-09-09",
+            "week_end": "2021-09-13",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=1&mid1=2&mid2=1",
+            "matchup_recap_title": "COVID Cucks earn win over 👑The ParKing👑 in 167.26-113.18 rout",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "A+" },
+                { "team_key": "406.l.838233.t.1", "grade": "B-" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "167.26"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "127.88"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.1",
+                  "team_id": "1",
+                  "name": "👑The ParKing👑",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/1",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/80a5a353c7f548d6dbe04d3635d2c125a81b36b504e2ac76fec185b1c230560c.jpg"
+                    }
+                  },
+                  "waiver_priority": "6",
+                  "number_of_moves": "32",
+                  "number_of_trades": "1",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "2",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/1/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "1",
+                      "nickname": "Parker",
+                      "guid": "HXDBBQXMH5WU7LGXWO7QGH4C7E",
+                      "is_commissioner": "1",
+                      "image_url": "https://s.yimg.com/ag/images/54935943-16aa-4316-a3e7-5e0714789771_64sq.jpg",
+                      "felo_score": "822",
+                      "felo_tier": "platinum"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "113.18"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "1",
+                    "total": "130.54"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "2",
+            "week_start": "2021-09-14",
+            "week_end": "2021-09-20",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=2&mid1=2&mid2=10",
+            "matchup_recap_title": "COVID Cucks fall to Rock Hard in 111.02-110.30 nailbiter",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "C" },
+                { "team_key": "406.l.838233.t.10", "grade": "B-" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.10",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "2",
+                    "total": "110.30"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "2",
+                    "total": "124.40"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.10",
+                  "team_id": "10",
+                  "name": "Rock Hard",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/10",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_7_r.png"
+                    }
+                  },
+                  "waiver_priority": "5",
+                  "number_of_moves": "11",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "3",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/10/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "10",
+                      "nickname": "Ryan",
+                      "guid": "B4BIZ2HLY7FXDTTCHUFRFGZSUU",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "626",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "2",
+                    "total": "111.02"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "2",
+                    "total": "120.46"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "3",
+            "week_start": "2021-09-21",
+            "week_end": "2021-09-27",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=3&mid1=2&mid2=3",
+            "matchup_recap_title": "the blazy crazies fall short of predictions, find way to defeat COVID Cucks, 100.72-69.84",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "F" },
+                { "team_key": "406.l.838233.t.3", "grade": "C" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.3",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "3",
+                    "total": "69.84"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "3",
+                    "total": "119.53"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.3",
+                  "team_id": "3",
+                  "name": "the blazy crazies",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/3",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12_z.png"
+                    }
+                  },
+                  "waiver_priority": "2",
+                  "number_of_moves": "1",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "8",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/3/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "3",
+                      "nickname": "AZ",
+                      "guid": "XTUFLFELWB4L2H2WHCCD3XKOIQ",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "547",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "3",
+                    "total": "100.72"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "3",
+                    "total": "124.48"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "4",
+            "week_start": "2021-09-28",
+            "week_end": "2021-10-04",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=4&mid1=2&mid2=4",
+            "matchup_recap_title": "COVID Cucks hand Leave It All On the Bench fourth straight loss in 139.82-109.72 rout",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "A" },
+                { "team_key": "406.l.838233.t.4", "grade": "C+" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "4",
+                    "total": "139.82"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "4",
+                    "total": "122.50"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.4",
+                  "team_id": "4",
+                  "name": "Leave It All On the Bench",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/4",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc97bcc8ce2d7df77bb31b7140b016291f8afed13edecd5ae58e70dce83528e3.jpg"
+                    }
+                  },
+                  "waiver_priority": "4",
+                  "number_of_moves": "12",
+                  "number_of_trades": "1",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "4",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B-",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/4/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "4",
+                      "nickname": "Bryce",
+                      "guid": "YK274DAWTN42AEB3P6URF6VQEY",
+                      "image_url": "https://s.yimg.com/ag/images/c9ccab66-1ac7-48fa-b763-9fbdfeaf761a_64sq.jpg",
+                      "felo_score": "601",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "4",
+                    "total": "109.72"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "4",
+                    "total": "117.53"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "5",
+            "week_start": "2021-10-05",
+            "week_end": "2021-10-11",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=5&mid1=2&mid2=5",
+            "matchup_recap_title": "Lions Truly Suck come back to defeat COVID Cucks in 111.18-111.16 battle",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "C+" },
+                { "team_key": "406.l.838233.t.5", "grade": "B" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.5",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "5",
+                    "total": "111.16"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "5",
+                    "total": "117.38"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.5",
+                  "team_id": "5",
+                  "name": "Lions Truly Suck",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/5",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9_d.png"
+                    }
+                  },
+                  "waiver_priority": "3",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "7",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/5/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "5",
+                      "nickname": "Ethan",
+                      "guid": "RGSJMIWCTQEESHVBT3WO2YY2LA",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "551",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "5",
+                    "total": "111.18"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "5",
+                    "total": "113.76"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "6",
+            "week_start": "2021-10-12",
+            "week_end": "2021-10-18",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=6&mid1=2&mid2=6",
+            "matchup_recap_title": "COVID Cucks earn win over Dolphinluvers69, 131.96-115.30",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "A-" },
+                { "team_key": "406.l.838233.t.6", "grade": "B" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "6",
+                    "total": "131.96"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "6",
+                    "total": "119.62"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.6",
+                  "team_id": "6",
+                  "name": "Dolphinluvers69",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/6",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/c791b7d86b4b86bcd163d61b505805d8b244b11cb596cb36add2eea39c80685b.jpg"
+                    }
+                  },
+                  "waiver_priority": "7",
+                  "number_of_moves": "9",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "6",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/6/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "6",
+                      "nickname": "Robert",
+                      "guid": "LZ2MM26JQ5Z7FF7ZV4EJRX2PZQ",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "584",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "6",
+                    "total": "115.30"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "6",
+                    "total": "113.97"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "7",
+            "week_start": "2021-10-19",
+            "week_end": "2021-10-25",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=7&mid1=2&mid2=7",
+            "matchup_recap_title": "COVID Cucks succumb to Deep Run Captains, 110.94-103.64",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "B-" },
+                { "team_key": "406.l.838233.t.7", "grade": "C+" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.7",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "7",
+                    "total": "103.64"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "7",
+                    "total": "120.68"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.7",
+                  "team_id": "7",
+                  "name": "Deep Run Captains",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/7",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/81e2be7c7bf7ed8ab7a231b807b05a0fd08721406cf2a77c6a737a197eefb122.png"
+                    }
+                  },
+                  "waiver_priority": "9",
+                  "number_of_moves": "5",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "1",
+                  "has_draft_grade": "1",
+                  "draft_grade": "A-",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/7/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "7",
+                      "nickname": "Michael",
+                      "guid": "GIIMBZO6G6I4WZG7IC6GFT5DIM",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "598",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "7",
+                    "total": "110.94"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "7",
+                    "total": "104.27"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "8",
+            "week_start": "2021-10-26",
+            "week_end": "2021-11-01",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=8&mid1=2&mid2=8",
+            "matchup_recap_title": "COVID Cucks hand Gnarly Chokes fourth consecutive loss in 110.06-66.56 beatdown",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "C+" },
+                { "team_key": "406.l.838233.t.8", "grade": "F" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "8",
+                    "total": "110.06"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "8",
+                    "total": "123.19"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.8",
+                  "team_id": "8",
+                  "name": "Gnarly Chokes",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/8",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/fb9af8debcbcf6f4244f1f8f5a48e60a0b4bd9ce478fdcb3ed9089c13e79d3a5.jpg"
+                    }
+                  },
+                  "waiver_priority": "1",
+                  "number_of_moves": "10",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "10",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/8/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "8",
+                      "nickname": "charlie",
+                      "guid": "HWYT24442TXZCLP5FL3YEXYGUQ",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "549",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "8",
+                    "total": "66.56"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "8",
+                    "total": "118.90"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "9",
+            "week_start": "2021-11-02",
+            "week_end": "2021-11-08",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=9&mid1=2&mid2=9",
+            "matchup_recap_title": "COVID Cucks beat predictions, come back to knock off PhlyEaglesPhly, 124.46-112.04",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "A-" },
+                { "team_key": "406.l.838233.t.9", "grade": "B-" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "9",
+                    "total": "124.46"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "9",
+                    "total": "111.75"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.9",
+                  "team_id": "9",
+                  "name": "PhlyEaglesPhly",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/9",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/683a6704cd35798695da17d5b7235d21f721f1505f279fa2a00f83a48fec7938.jpg"
+                    }
+                  },
+                  "waiver_priority": "10",
+                  "number_of_moves": "29",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "5",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/9/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "9",
+                      "nickname": "Zach",
+                      "guid": "4J4T5DFESSS7VKNJC3J6F7RH4M",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "718",
+                      "felo_tier": "gold"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "9",
+                    "total": "112.04"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "9",
+                    "total": "125.38"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "10",
+            "week_start": "2021-11-09",
+            "week_end": "2021-11-15",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=10&mid1=2&mid2=1",
+            "matchup_recap_title": "👑The ParKing👑 manage to knock off COVID Cucks 101.04-84.94",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "D" },
+                { "team_key": "406.l.838233.t.1", "grade": "C" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.1",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "10",
+                    "total": "84.94"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "10",
+                    "total": "116.08"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.1",
+                  "team_id": "1",
+                  "name": "👑The ParKing👑",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/1",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/80a5a353c7f548d6dbe04d3635d2c125a81b36b504e2ac76fec185b1c230560c.jpg"
+                    }
+                  },
+                  "waiver_priority": "6",
+                  "number_of_moves": "32",
+                  "number_of_trades": "1",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "2",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/1/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "1",
+                      "nickname": "Parker",
+                      "guid": "HXDBBQXMH5WU7LGXWO7QGH4C7E",
+                      "is_commissioner": "1",
+                      "image_url": "https://s.yimg.com/ag/images/54935943-16aa-4316-a3e7-5e0714789771_64sq.jpg",
+                      "felo_score": "822",
+                      "felo_tier": "platinum"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "10",
+                    "total": "101.04"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "10",
+                    "total": "129.89"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "11",
+            "week_start": "2021-11-16",
+            "week_end": "2021-11-22",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=11&mid1=2&mid2=10",
+            "matchup_recap_title": "Rock Hard come up short of expectations, succumb to COVID Cucks in 120.28-78.24 runaway",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "B" },
+                { "team_key": "406.l.838233.t.10", "grade": "D" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "11",
+                    "total": "120.28"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "11",
+                    "total": "114.71"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.10",
+                  "team_id": "10",
+                  "name": "Rock Hard",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/10",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_7_r.png"
+                    }
+                  },
+                  "waiver_priority": "5",
+                  "number_of_moves": "11",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "3",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/10/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "10",
+                      "nickname": "Ryan",
+                      "guid": "B4BIZ2HLY7FXDTTCHUFRFGZSUU",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "626",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "11",
+                    "total": "78.24"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "11",
+                    "total": "110.86"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "12",
+            "week_start": "2021-11-23",
+            "week_end": "2021-11-29",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=12&mid1=2&mid2=3",
+            "matchup_recap_title": "COVID Cucks knock off the blazy crazies in 115.98-79.20 blowout",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "B" },
+                { "team_key": "406.l.838233.t.3", "grade": "D" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.2",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "12",
+                    "total": "115.98"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "12",
+                    "total": "104.67"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.3",
+                  "team_id": "3",
+                  "name": "the blazy crazies",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/3",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_12_z.png"
+                    }
+                  },
+                  "waiver_priority": "2",
+                  "number_of_moves": "1",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "8",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/3/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "3",
+                      "nickname": "AZ",
+                      "guid": "XTUFLFELWB4L2H2WHCCD3XKOIQ",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "547",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "12",
+                    "total": "79.20"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "12",
+                    "total": "102.64"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "13",
+            "week_start": "2021-11-30",
+            "week_end": "2021-12-06",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=13&mid1=2&mid2=4",
+            "matchup_recap_title": "Back-and-forth battle ends with Leave It All On the Bench coming back to knock off COVID Cucks in 118.96-117.22 struggle",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "B-" },
+                { "team_key": "406.l.838233.t.4", "grade": "A-" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.4",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "13",
+                    "total": "117.22"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "13",
+                    "total": "118.52"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.4",
+                  "team_id": "4",
+                  "name": "Leave It All On the Bench",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/4",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/bc97bcc8ce2d7df77bb31b7140b016291f8afed13edecd5ae58e70dce83528e3.jpg"
+                    }
+                  },
+                  "waiver_priority": "4",
+                  "number_of_moves": "12",
+                  "number_of_trades": "1",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "4",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B-",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/4/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "4",
+                      "nickname": "Bryce",
+                      "guid": "YK274DAWTN42AEB3P6URF6VQEY",
+                      "image_url": "https://s.yimg.com/ag/images/c9ccab66-1ac7-48fa-b763-9fbdfeaf761a_64sq.jpg",
+                      "felo_score": "601",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "13",
+                    "total": "118.96"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "13",
+                    "total": "108.80"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "14",
+            "week_start": "2021-12-07",
+            "week_end": "2021-12-13",
+            "status": "postevent",
+            "is_playoffs": "0",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "1",
+            "matchup_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/recap?week=14&mid1=2&mid2=5",
+            "matchup_recap_title": "COVID Cucks fall to Lions Truly Suck in 128.28-125.02 thriller despite outperforming expectations",
+            "matchup_grades": {
+              "matchup_grade": [
+                { "team_key": "406.l.838233.t.2", "grade": "A-" },
+                { "team_key": "406.l.838233.t.5", "grade": "B+" }
+              ]
+            },
+            "is_tied": "0",
+            "winner_team_key": "406.l.838233.t.5",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "14",
+                    "total": "125.02"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "14",
+                    "total": "110.43"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.5",
+                  "team_id": "5",
+                  "name": "Lions Truly Suck",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/5",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_9_d.png"
+                    }
+                  },
+                  "waiver_priority": "3",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "league_scoring_type": "head",
+                  "draft_position": "7",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/5/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "5",
+                      "nickname": "Ethan",
+                      "guid": "RGSJMIWCTQEESHVBT3WO2YY2LA",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "551",
+                      "felo_tier": "bronze"
+                    }
+                  },
+                  "win_probability": "1",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "14",
+                    "total": "128.28"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "14",
+                    "total": "117.02"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "week": "15",
+            "week_start": "2021-12-14",
+            "week_end": "2021-12-20",
+            "status": "midevent",
+            "is_playoffs": "1",
+            "is_consolation": "0",
+            "is_matchup_recap_available": "0",
+            "teams": {
+              "@count": "2",
+              "team": [
+                {
+                  "team_key": "406.l.838233.t.2",
+                  "team_id": "2",
+                  "name": "COVID Cucks",
+                  "is_owned_by_current_login": "1",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/2",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://yahoofantasysports-res.cloudinary.com/image/upload/t_s192sq/fantasy-logos/572d1018e4930756f73ae54b6508ca4e986ef61c013a7d48aa7c3e50e4be8311.jpg"
+                    }
+                  },
+                  "waiver_priority": "8",
+                  "number_of_moves": "14",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "9",
+                  "has_draft_grade": "1",
+                  "draft_grade": "B+",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/2/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "2",
+                      "nickname": "Walker",
+                      "guid": "KT473LM2255UVCPUDYCPV7A36I",
+                      "is_current_login": "1",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "642",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0.52",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "15",
+                    "total": "0.00"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "15",
+                    "total": "117.21"
+                  }
+                },
+                {
+                  "team_key": "406.l.838233.t.10",
+                  "team_id": "10",
+                  "name": "Rock Hard",
+                  "url": "https://football.fantasysports.yahoo.com/f1/838233/10",
+                  "team_logos": {
+                    "team_logo": {
+                      "size": "large",
+                      "url": "https://s.yimg.com/cv/apiv2/default/nfl/nfl_7_r.png"
+                    }
+                  },
+                  "waiver_priority": "5",
+                  "number_of_moves": "11",
+                  "number_of_trades": "0",
+                  "roster_adds": {
+                    "coverage_type": "week",
+                    "coverage_value": "15",
+                    "value": "0"
+                  },
+                  "clinched_playoffs": "1",
+                  "league_scoring_type": "head",
+                  "draft_position": "3",
+                  "has_draft_grade": "1",
+                  "draft_grade": "C",
+                  "draft_recap_url": "https://football.fantasysports.yahoo.com/f1/838233/10/draftrecap",
+                  "managers": {
+                    "manager": {
+                      "manager_id": "10",
+                      "nickname": "Ryan",
+                      "guid": "B4BIZ2HLY7FXDTTCHUFRFGZSUU",
+                      "image_url": "https://s.yimg.com/ag/images/default_user_profile_pic_64sq.jpg",
+                      "felo_score": "626",
+                      "felo_tier": "silver"
+                    }
+                  },
+                  "win_probability": "0.48",
+                  "team_points": {
+                    "coverage_type": "week",
+                    "week": "15",
+                    "total": "0.00"
+                  },
+                  "team_projected_points": {
+                    "coverage_type": "week",
+                    "week": "15",
+                    "total": "114.48"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

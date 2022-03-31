@@ -1,0 +1,107 @@
+[
+  {
+    "week": "1",
+    "did_win": true,
+    "opponent_id": "1",
+    "actual_points": "167.26",
+    "projected_points": "127.88"
+  },
+  {
+    "week": "2",
+    "did_win": false,
+    "opponent_id": "10",
+    "actual_points": "110.30",
+    "projected_points": "124.40"
+  },
+  {
+    "week": "3",
+    "did_win": false,
+    "opponent_id": "3",
+    "actual_points": "69.84",
+    "projected_points": "119.53"
+  },
+  {
+    "week": "4",
+    "did_win": true,
+    "opponent_id": "4",
+    "actual_points": "139.82",
+    "projected_points": "122.50"
+  },
+  {
+    "week": "5",
+    "did_win": false,
+    "opponent_id": "5",
+    "actual_points": "111.16",
+    "projected_points": "117.38"
+  },
+  {
+    "week": "6",
+    "did_win": true,
+    "opponent_id": "6",
+    "actual_points": "131.96",
+    "projected_points": "119.62"
+  },
+  {
+    "week": "7",
+    "did_win": false,
+    "opponent_id": "7",
+    "actual_points": "103.64",
+    "projected_points": "120.68"
+  },
+  {
+    "week": "8",
+    "did_win": true,
+    "opponent_id": "8",
+    "actual_points": "110.06",
+    "projected_points": "123.19"
+  },
+  {
+    "week": "9",
+    "did_win": true,
+    "opponent_id": "9",
+    "actual_points": "124.46",
+    "projected_points": "111.75"
+  },
+  {
+    "week": "10",
+    "did_win": false,
+    "opponent_id": "1",
+    "actual_points": "84.94",
+    "projected_points": "116.08"
+  },
+  {
+    "week": "11",
+    "did_win": true,
+    "opponent_id": "10",
+    "actual_points": "120.28",
+    "projected_points": "114.71"
+  },
+  {
+    "week": "12",
+    "did_win": true,
+    "opponent_id": "3",
+    "actual_points": "115.98",
+    "projected_points": "104.67"
+  },
+  {
+    "week": "13",
+    "did_win": false,
+    "opponent_id": "4",
+    "actual_points": "117.22",
+    "projected_points": "118.52"
+  },
+  {
+    "week": "14",
+    "did_win": false,
+    "opponent_id": "5",
+    "actual_points": "125.02",
+    "projected_points": "110.43"
+  },
+  {
+    "week": "15",
+    "did_win": false,
+    "opponent_id": "10",
+    "actual_points": "0.00",
+    "projected_points": "116.25"
+  }
+]

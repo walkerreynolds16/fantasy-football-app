@@ -1,0 +1,4 @@
+yahoo_oauth
+xmltodict
+numpy
+matplotlib
